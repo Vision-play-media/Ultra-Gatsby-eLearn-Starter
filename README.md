@@ -52,9 +52,9 @@ is [HERE!](https://ultronele.netlify.com/)
 
 Just for a couple of commands, you will have your own LMS, here we go:
 
-> $ gatsby new my-ultronele https://github.com/runbytech/ultronele-starter
+> $ gatsby new my-project https://github.com/a-deeb/ultra-Gatsby-eLearn-master
 
-> $ cd my-ultronele
+> $ cd my-project
 
 > $ gatsby develop
 
