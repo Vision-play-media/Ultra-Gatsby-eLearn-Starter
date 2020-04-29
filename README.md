@@ -72,7 +72,7 @@ Looking for more guidance? Full documentation for UltronEle lives [on the websit
 Prerequisites: github account and netlify account required
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/runbytech/ultronele-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/a-deeb/Ultra-Gatsby-eLearn-Starter)
 
 
 ## Contribution is Welcome
